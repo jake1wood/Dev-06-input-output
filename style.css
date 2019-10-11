@@ -1,0 +1,10 @@
+/*styling our heading 
+  text-align tells the browser to move the text in such a way that it is in center, left or right.
+  font-family specifies font style.
+  margin-top is for creating space between our heading and whatever is on the top of our heading.
+*/
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20%;
+}
